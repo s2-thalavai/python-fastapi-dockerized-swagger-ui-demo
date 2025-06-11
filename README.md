@@ -57,8 +57,8 @@ Uvicorn currently supports HTTP/1.1 and WebSockets.
 
     http://127.0.0.1:8000/
     
-![alt text](image-1.png)
+![alt text](api-1.png)
 
     http://127.0.0.1:8000/users/thalasi
     
-![alt text](image-2.png)
+![alt text](api-2.png)
