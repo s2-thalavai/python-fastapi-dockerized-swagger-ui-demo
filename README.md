@@ -15,7 +15,8 @@ which allows developers to easily explore and test their APIs.
 
 ### Key Features:
 
-    Automatic Documentation: FastAPI automatically generates OpenAPI documentation, which is used by Swagger UI.
+    Automatic Documentation: FastAPI automatically generates OpenAPI documentation, 
+    which is used by Swagger UI.
 
     Interactive UI: Swagger UI provides an interactive interface to explore and test APIs.
 
@@ -56,9 +57,9 @@ Uvicorn currently supports HTTP/1.1 and WebSockets.
 
     http://127.0.0.1:8000/
     
-    ![image](https://github.com/user-attachments/assets/25533f4f-6ba9-4961-96d8-718e76a967b3)
-    
+    ![image](https://github.com/user-attachments/assets/d90fad16-3971-4645-834f-dcac2f4eaec2)
+
     http://127.0.0.1:8000/users/thalasi
     
-    ![image](https://github.com/user-attachments/assets/ee82eedb-6e4b-4b39-bcc7-ab71b03769ca)
-    
+    ![image](https://github.com/user-attachments/assets/cf6e3eb9-01f0-40da-8751-068cded69241)
+
