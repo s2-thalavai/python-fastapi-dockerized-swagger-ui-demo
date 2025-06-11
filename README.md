@@ -49,3 +49,16 @@ Uvicorn currently supports HTTP/1.1 and WebSockets.
 ### Run the application using Uvicorn.
 
     python -m uvicorn main:app --reload
+
+    ![image](https://github.com/user-attachments/assets/fe4433b2-4469-4555-9cb7-4133a9eedfbe)
+
+### URL: 
+
+    http://127.0.0.1:8000/
+    
+    ![image](https://github.com/user-attachments/assets/25533f4f-6ba9-4961-96d8-718e76a967b3)
+    
+    http://127.0.0.1:8000/users/thalasi
+    
+    ![image](https://github.com/user-attachments/assets/ee82eedb-6e4b-4b39-bcc7-ab71b03769ca)
+    
