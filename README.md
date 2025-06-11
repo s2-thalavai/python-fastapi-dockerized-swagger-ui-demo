@@ -51,15 +51,14 @@ Uvicorn currently supports HTTP/1.1 and WebSockets.
 
     python -m uvicorn main:app --reload
 
-    ![image](https://github.com/user-attachments/assets/fe4433b2-4469-4555-9cb7-4133a9eedfbe)
+   ![alt text](image.png)
 
 ### URL: 
 
     http://127.0.0.1:8000/
     
-    ![image](https://github.com/user-attachments/assets/d90fad16-3971-4645-834f-dcac2f4eaec2)
+    ![alt text](image-1.png)
 
     http://127.0.0.1:8000/users/thalasi
     
-    ![image](https://github.com/user-attachments/assets/cf6e3eb9-01f0-40da-8751-068cded69241)
-
+    ![alt text](image-2.png)
